@@ -152,8 +152,6 @@ Backend: `https://be6df7dd-6c4d-4bb1-a59e-85c2dd171c63.fly.dev`
 
 **Saanvi Sahoo** — [github.com/saanvi-sahoo](https://github.com/saanvi-sahoo)
 
-**Sagar Swain** — [github.com/SagarSwain05](https://github.com/SagarSwain05)
-
 ---
 
 © 2026 CodeMentor AI — Built with [Reflex](https://reflex.dev) · Powered by [Groq](https://groq.com) · [Ollama](https://ollama.ai)
