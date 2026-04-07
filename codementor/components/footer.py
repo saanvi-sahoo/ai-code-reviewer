@@ -89,6 +89,18 @@ def footer() -> rx.Component:
                             href="https://github.com/saanvi-sahoo",
                             is_external=True,
                         ),
+                        rx.link(
+                            rx.icon_button(
+                                rx.icon("github", size=15),
+                                variant="ghost",
+                                size="1",
+                                color=COLORS["text_muted"],
+                                _hover={"color": COLORS["text_primary"],
+                                        "background": COLORS["bg_tertiary"]},
+                            ),
+                            href="https://github.com/SagarSwain05",
+                            is_external=True,
+                        ),
                         spacing="1",
                     ),
                     spacing="4",

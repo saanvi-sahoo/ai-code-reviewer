@@ -149,6 +149,18 @@ def navbar() -> rx.Component:
                     href="https://github.com/saanvi-sahoo",
                     is_external=True,
                 ),
+                rx.link(
+                    rx.icon_button(
+                        rx.icon("github", size=16),
+                        variant="ghost",
+                        color=COLORS["text_secondary"],
+                        size="2",
+                        _hover={"color": COLORS["text_primary"],
+                                "background": COLORS["bg_tertiary"]},
+                    ),
+                    href="https://github.com/SagarSwain05",
+                    is_external=True,
+                ),
                 spacing="2",
                 align="center",
             ),
